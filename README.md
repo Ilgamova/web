@@ -8,3 +8,7 @@
 
 [Тестовый прогон тейст-кейсов для Корзины и Оплаты](https://github.com/Ilgamova/web/files/15374737/Express_run_Liia.Ilgamova.pdf)  
 [Отчеты о дефектах для Корзины и оплаты.](https://docs.google.com/spreadsheets/d/1q7W0HBJe85OZbYtmTQqaASE5hMBA1ZCmb4B0q1ZbPdE/edit#gid=0)
+
+[Изменение количества товаров в корзине на 500](https://photos.app.goo.gl/xHSPaYcEwpUj8LK2A)  
+  [Перенаправление запрос](https://photos.app.goo.gl/cxsXuHSfdWzEKy4ZA)  
+  [Воспроизведение ошибки](https://photos.app.goo.gl/K9CEZFgjgfvLqxYP7)  
