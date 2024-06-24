@@ -1,4 +1,4 @@
-# Тестирование веб-приложений
+# Тестирование веб-приложенийhttps://github.com/Ilgamova/web/blob/main/README.md
 [Тест-план для приложения "Интернет-магазин"](https://docs.google.com/spreadsheets/d/1T0KbtRfdSInz631rTWLagbYRech_zAaog8lCMOJHl7k/edit#gid=0)
 
 [Чек-лист для Cart Management и Order Management.](https://docs.google.com/spreadsheets/d/1Eezj5-EhUAEb8hDYn9O_MSCtsF72aGGhv6cs1zzgn-M/edit#gid=0)
@@ -11,4 +11,4 @@
 
 [Изменение количества товаров в корзине на 500](https://photos.app.goo.gl/xHSPaYcEwpUj8LK2A)  
   [Перенаправление запрос](https://photos.app.goo.gl/cxsXuHSfdWzEKy4ZA)  
-  [Воспроизведение ошибки](https://photos.app.goo.gl/K9CEZFgjgfvLqxYP7)  
+  [Воспроизведение ошибки 403](https://photos.app.goo.gl/bXtPeoVKixZYSV7e7)  
